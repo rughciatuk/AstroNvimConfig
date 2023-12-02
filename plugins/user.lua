@@ -20,4 +20,8 @@ return {
       { "<leader>T", "<cmd>TodoTelescope<cr>", desc = "Open TODOs in Telescope" },
     },
   },
+  {
+    "pocco81/auto-save.nvim",
+    lazy = false,
+  },
 }

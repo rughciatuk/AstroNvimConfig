@@ -8,4 +8,11 @@ return {
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.lua" },
+  { import = "astrocommunity.pack.html-css" },
+  { import = "astrocommunity.pack.typescript-all-in-one" },
+  { import = "astrocommunity.completion.copilot-lua-cmp" },
+  { import = "astrocommunity.bars-and-lines.vim-illuminate" },
+  { import = "astrocommunity.bars-and-lines.heirline-mode-text-statusline" },
+  { import = "astrocommunity.bars-and-lines.heirline-vscode-winbar" },
+  { import = "astrocommunity.motion.leap-nvim" },
 }
