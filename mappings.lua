@@ -18,6 +18,11 @@ return {
     --   desc = "Previous buffer",
     -- },
 
+    -- Fast moving with captital HJKL
+    ["H"] = { "5h", desc = "Move left" },
+    ["J"] = { "5j", desc = "Move down" },
+    ["K"] = { "5k", desc = "Move up" },
+    ["L"] = { "5l", desc = "Move right" },
     -- mappings seen under group name "Buffer"
     ["<leader>bD"] = {
       function()
